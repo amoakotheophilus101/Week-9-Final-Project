@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+main.py
+.DS_Store
+notebooks/.DS_Store
